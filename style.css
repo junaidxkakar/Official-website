@@ -1,0 +1,49 @@
+.bgimg{
+    
+    border-radius: 20px;
+    background-image: url('./');
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: large;
+    background-image: url('https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600');
+    color: aliceblue;
+}
+.navbar{
+    
+    font-family: jk;
+    background-image: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=600');
+}
+@font-face {
+    font-family: jk;
+    src: url('./Pacifico-Regular.ttf');
+}
+body{
+    background-image: url('https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=600');
+}
+
+.img1{
+    border-radius: 15px !important;
+    
+}
+.card{
+   
+    /* margin: 20px !important; */
+}
+.alert-primary{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px !important;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 600;
+    background-image: url('https://images.pexels.com/photos/220182/pexels-photo-220182.jpeg?auto=compress&cs=tinysrgb&w=600');
+}
+.btn{
+    
+    width: 200px;
+}
+.bg{
+  
+    background-image: url('https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=600');
+    border-radius: 20px;
+}
